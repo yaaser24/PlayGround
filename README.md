@@ -16,3 +16,18 @@
 - 👤 [Explore the creator's projects](https://omgithub.com/yaaser24).
 - 🌍 [Create with OMGithub](https://omgithub.com).
 <!-- omgithub:readme:end -->
+
+## Invasion Shift
+
+A complete browser arcade game with a twist: you're the invaders. Steer a neon saucer, blast Earth's defense grid, and survive five increasingly hostile waves.
+
+### Play
+
+Open `index.html` in a browser, or serve this folder with any static web server. No build step or dependencies are required.
+
+- **Move:** Left/Right arrows or A/D
+- **Fire:** Space
+- **Pause / resume:** P
+- **Touch:** Drag across the playfield to steer; use the on-screen arrows and fire button
+
+Your best score is saved locally in the browser. Sound can be toggled from the header.
